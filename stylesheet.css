@@ -28,6 +28,10 @@
     color: #fff;
 }
 
+.face img {
+    width: 100%;
+}
+
 .contents h3{
     padding: 0px 60px;
 }
