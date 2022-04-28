@@ -66,6 +66,10 @@
     justify-content: end;
 }
 
+p {
+    font-size: larger;
+}
+
 .bio a{
     color: #a544c2;
 }
